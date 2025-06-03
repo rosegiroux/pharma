@@ -2,7 +2,7 @@
 translate mathematical models to computational programs
 1) logistic growth based on microscopy cell division data
 2) multivariate analysis
-signal processing
-deterministic dynamical systems
-stochastic dynamical systems
+3) signal processing
+4) deterministic dynamical systems
+5) stochastic dynamical systems
 
