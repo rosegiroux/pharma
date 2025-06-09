@@ -4,8 +4,8 @@ translate mathematical models to computational programs
 logistic_growth_notochord.m
 modeling_logistic_growth.m
 published in: small_Developmental Dynamics - 2025 - Long - 
-2) multivariate analysis
-3) signal processing
+2) Action Potential modeled with differential equations
+3) multivariate statistical analysis
 4) deterministic dynamical systems
 5) stochastic dynamical systems
 
